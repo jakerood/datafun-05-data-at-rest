@@ -2,7 +2,7 @@
 
 - [GitHub Repository](https://github.com/jakerood/datafun-05-data-at-rest)
 
-Data at rest is date kept in:
+Data at rest is data kept in:
 
 * Files
 * Relational databases
@@ -10,7 +10,9 @@ Data at rest is date kept in:
 * Graph databases
 * and more
 
-...
+In this module we get an introduction to working with data at rest.
+We take a look at how to read and write from a CSV file using the Titantic disaster dataset.
+We also work with relational databases using the 'books.sql' script.
 
 ## Step 1: Open The Project Folder
 
